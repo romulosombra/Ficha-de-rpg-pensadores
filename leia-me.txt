@@ -1,1 +1,3 @@
 desemcompacta tudo pra uma pasta chamada "_internal"
+
+so lembrando, dentro da pasta _internal não pode ter outra pasta _internal dentro, se tiver voce tira ela e arrasta ela pra fora
