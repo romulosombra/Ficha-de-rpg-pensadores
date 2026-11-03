@@ -1,0 +1,1 @@
+desemcompacta tudo pra uma pasta chamada "_internal"
